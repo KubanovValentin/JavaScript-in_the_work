@@ -1,0 +1,1 @@
+https://medium.com/@stasonmars/делегирование-событий-в-javascript-d91cbdd8916a
